@@ -1,8 +1,6 @@
 
 # Hi there 👋, I'm Bhagat Singh
 
-## ⚒️ Building Stuff
-
 I'm an iOS developer at PhonePe and a contributor at Kodeco. I'm passionate about building beautiful and user-friendly applications. When I'm not coding, you can find me cooking at home.
 
 - 🔭 I’m currently working on **iOS at PhonePe**
