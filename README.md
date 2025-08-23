@@ -14,10 +14,6 @@ I'm an iOS developer at PhonePe and a contributor at Kodeco. I'm passionate abou
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I am also a DJ!**
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=xorforce)
-
 ## 📱 Current projects
 - [bhagat.zone](https://github.com/xorforce/me) - My personal website, vibe-coded with Cursor. Helped me learn the latest in web technologies.
 - [F1-Countdown Bot](https://github.com/xorforce/f1-countdown) - A Python script which tweets out the countdown for the next F1 race. Follow [@nextF1Race](https://x.com/nextf1race)
