@@ -24,3 +24,4 @@ I'm an iOS developer at PhonePe and a contributor at Kodeco. I'm passionate abou
 - 🧠 **[Synapse](https://github.com/xorforce/synapse)** - A node package to sync all your X Bookmarks/Likes to your Obsidian vault, categorised in folders.
 - 🦿 **[Sidekick](https://github.com/xorforce/sidekick)** - A Swift CLI to make everything related to building and running iOS and MacOS apps easier for humans and agents.
 - 🛸 **[Teleport](https://github.com/xorforce/teleport)** - A MacOS App and CLI to export your settings and packages to a new Mac, setting it up for you.
+- 🆕 **[NewSpots Club](https://newspots.club)** - A manually curated website on places around me to visit for great food.
